@@ -1,0 +1,68 @@
+-------------- 17-03-15 19:17:10  mpeterson Interview5 -------------------------------
+=========== Audio and Video File Merger ==========
+filename prefix:  mpeterson_Interview5
+audio Extension:  mp3
+video Extension:  webm
+delimiter:        _
+output file path: /media/sf_StuView_Folder/StuView/public/media/output/tmp888721331.mpeg
+video Input Dir:  /media/sf_StuView_Folder/StuView/public/media/video/
+audio Input Dir:  /media/sf_StuView_Folder/StuView/public/media/audio/
+Do Cleanup:       true
+ preparing to merge the following files
+_________________________________________________________________
+/media/sf_StuView_Folder/StuView/public/media/video/mpeterson_Interview5_0.webm
+/media/sf_StuView_Folder/StuView/public/media/audio/mpeterson_Interview5_0.mp3
+
+merging audio and video together...done
+performing cleanup...done
+-------------- 17-03-21 20:03:45  mpeterson Interview9 -------------------------------
+=========== Audio and Video File Merger ==========
+filename prefix:  mpeterson_Interview9
+audio Extension:  mp3
+video Extension:  webm
+delimiter:        _
+output file path: /media/sf_StuView_Folder/StuView/public/media/output/tmp2685111001.mpeg
+video Input Dir:  /media/sf_StuView_Folder/StuView/public/media/video/
+audio Input Dir:  /media/sf_StuView_Folder/StuView/public/media/audio/
+Do Cleanup:       true
+ preparing to merge the following files
+_________________________________________________________________
+/media/sf_StuView_Folder/StuView/public/media/video/mpeterson_Interview9_0.webm
+/media/sf_StuView_Folder/StuView/public/media/audio/mpeterson_Interview9_0.mp3
+
+merging audio and video together...done
+performing cleanup...done
+-------------- 17-03-22 22:10:14  mpeterson Interview3 -------------------------------
+=========== Audio and Video File Merger ==========
+filename prefix:  mpeterson_Interview3
+audio Extension:  mp3
+video Extension:  webm
+delimiter:        _
+output file path: /media/sf_StuView_Folder/StuView/public/media/practice/output/tmp183032014.mpeg
+video Input Dir:  /media/sf_StuView_Folder/StuView/public/media/practice/video/
+audio Input Dir:  /media/sf_StuView_Folder/StuView/public/media/practice/audio/
+Do Cleanup:       true
+ preparing to merge the following files
+_________________________________________________________________
+/media/sf_StuView_Folder/StuView/public/media/practice/video/mpeterson_Interview3_0.webm
+/media/sf_StuView_Folder/StuView/public/media/practice/audio/mpeterson_Interview3_0.mp3
+
+merging audio and video together...done
+performing cleanup...done
+-------------- 17-03-22 22:16:22  mpeterson Interview5 -------------------------------
+=========== Audio and Video File Merger ==========
+filename prefix:  mpeterson_Interview5
+audio Extension:  mp3
+video Extension:  webm
+delimiter:        _
+output file path: /media/sf_StuView_Folder/StuView/public/media/output/tmp559810915.mpeg
+video Input Dir:  /media/sf_StuView_Folder/StuView/public/media/video/
+audio Input Dir:  /media/sf_StuView_Folder/StuView/public/media/audio/
+Do Cleanup:       true
+ preparing to merge the following files
+_________________________________________________________________
+/media/sf_StuView_Folder/StuView/public/media/video/mpeterson_Interview5_0.webm
+/media/sf_StuView_Folder/StuView/public/media/audio/mpeterson_Interview5_0.mp3
+
+merging audio and video together...done
+performing cleanup...done
